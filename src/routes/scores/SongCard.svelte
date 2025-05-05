@@ -243,6 +243,10 @@
 		border-color: #3b90ff;
 		color: #1cda1b;
 	}
+
+	.level.I {
+		color: #1cda1b;
+	}
 	.decimal.I {
 		background-color: #1cda1b;
 	}
