@@ -23,7 +23,7 @@
 				<p>Get personalized song recommendations to improve your overall rating.</p>
 			</a>
 			<a href="/scores" class="feature-card">
-				<h3>/record</h3>
+				<h3>/scores</h3>
 				<p>Easily input and manage your rhythm game scores.</p>
 			</a>
 			<a href="/backup" class="feature-card">
